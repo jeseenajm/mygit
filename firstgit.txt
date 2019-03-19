@@ -1,6 +1,4 @@
 this is my first git
-
-hello
 this is jeseena
-sdf
-haiiiii
+haiiiii 
+commit changes
